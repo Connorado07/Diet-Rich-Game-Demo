@@ -192,4 +192,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Space Station.unity
     guid: 8f5b49482adeeee4788863503fe4ca7e
+  - enabled: 1
+    path: Assets/Test Levels/AI Showoff.unity
+    guid: cc1839582d116d546984757c7ae05eab
   m_configObjects: {}

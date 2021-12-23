@@ -13,6 +13,7 @@ public class MainMenu : MonoBehaviour
 	public void LoadGame()
 	{
 		Debug.Log("The previous game has been loaded.");
+		SceneManager.LoadScene("AI Showoff");
 	}
 	public void OptionsMenu()
 	{
